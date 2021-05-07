@@ -127,13 +127,13 @@ class LogGenerator:
         for p in cats:
             self.CATEGORIES[p['category_name']] = 100/len(cats)
 
-    def write_qps(self, dest, qps):
+    def write_qps(self, dest, topic,qps):
         sleep = 1.0 / qps
         while True:
-            self.write(dest, 1)
+            self.write(dest,topic, 1)
             time.sleep(sleep)
 
-    def write(self, dest, count):
+    def write(self, dest, topic, count):
         for i in range(count):
             ip = self.ipgen.get_ip()
             request = self.pick_weighted_key(self.REQUESTS)
@@ -149,7 +149,7 @@ class LogGenerator:
             ua = self.pick_weighted_key(self.USER_AGENTS)
             date = datetime.now().strftime("%d/%b/%Y:%H:%M:%S -0800") # Hard-coded as Python has no standard timezone implementation
             msg = "{} - - [{}] \"GET {} HTTP/1.1\" {} {} \"-\" \"{}\"\n".format(ip, date, request, resp_code, resp_size, ua)   
-            dest.send('retail',bytes(msg,encoding='utf8'))
+            dest.send(topic,bytes(msg,encoding='utf8'))
             logger.info(msg)
 
     def pick_weighted_key(self, hash):

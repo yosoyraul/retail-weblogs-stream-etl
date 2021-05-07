@@ -1,2 +1,3 @@
-gen_logs_etl/__pycache__/
+gen_logs/__pycache__/
 kafka-stack-docker-compose-master/
+gen_iot/__pycache__/
