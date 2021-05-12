@@ -6,3 +6,4 @@ stream_handler/jobs/__pycache__
 stream_handler/shared/__pycache__
 casssandra/
 .vscode
+stream_handler/config.json
