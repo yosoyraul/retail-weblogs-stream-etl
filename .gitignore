@@ -7,3 +7,4 @@ stream_handler/shared/__pycache__
 casssandra/
 .vscode
 stream_handler/config.json
+gen_iot/
