@@ -2063,3 +2063,401 @@
 
 2021-05-07 14:41:02,732 157.216.130.220 - - [07/May/2021:14:41:02 -0800] "GET /departments HTTP/1.1" 200 1747 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36"
 
+2021-05-11 13:16:57,669 Connecting to Kafka...
+2021-05-11 13:16:57,697 146.133.171.242 - - [11/May/2021:13:16:57 -0800] "GET /departments HTTP/1.1" 200 1754 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36"
+
+2021-05-11 13:17:17,723 154.160.193.248 - - [11/May/2021:13:17:17 -0800] "GET /departments HTTP/1.1" 404 445 "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36"
+
+2021-05-11 13:17:37,749 223.95.163.188 - - [11/May/2021:13:17:37 -0800] "GET /department/team%20sports/categories HTTP/1.1" 200 872 "-" "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:30.0) Gecko/20100101 Firefox/30.0"
+
+2021-05-11 13:17:57,776 162.228.192.201 - - [11/May/2021:13:17:57 -0800] "GET /department/team%20sports/categories HTTP/1.1" 200 1008 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:30.0) Gecko/20100101 Firefox/30.0"
+
+2021-05-11 13:18:17,805 135.170.2.109 - - [11/May/2021:13:18:17 -0800] "GET /departments HTTP/1.1" 200 796 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36"
+
+2021-05-11 13:18:37,825 82.251.113.185 - - [11/May/2021:13:18:37 -0800] "GET /checkout HTTP/1.1" 200 2122 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36"
+
+2021-05-11 13:18:57,848 59.84.193.125 - - [11/May/2021:13:18:57 -0800] "GET /categories/electronics/products HTTP/1.1" 200 280 "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36"
+
+2021-05-11 13:19:17,871 122.134.241.33 - - [11/May/2021:13:19:17 -0800] "GET /checkout HTTP/1.1" 200 1591 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36"
+
+2021-05-11 13:19:37,891 82.172.208.50 - - [11/May/2021:13:19:37 -0800] "GET /product/315 HTTP/1.1" 200 1378 "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36"
+
+2021-05-11 13:19:57,897 150.38.139.125 - - [11/May/2021:13:19:57 -0800] "GET /department/outdoors/categories HTTP/1.1" 200 1491 "-" "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:30.0) Gecko/20100101 Firefox/30.0"
+
+2021-05-11 13:20:17,914 142.246.134.172 - - [11/May/2021:13:20:17 -0800] "GET /department/outdoors/products HTTP/1.1" 200 1007 "-" "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36"
+
+2021-05-11 13:20:37,927 146.133.171.242 - - [11/May/2021:13:20:37 -0800] "GET /product/763 HTTP/1.1" 200 1898 "-" "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:30.0) Gecko/20100101 Firefox/30.0"
+
+2021-05-11 13:20:57,949 92.148.156.210 - - [11/May/2021:13:20:57 -0800] "GET /departments HTTP/1.1" 404 1023 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36"
+
+2021-05-11 13:21:17,971 19.46.61.216 - - [11/May/2021:13:21:17 -0800] "GET /department/fitness/products HTTP/1.1" 200 636 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit/537.76.4 (KHTML, like Gecko) Version/7.0.4 Safari/537.76.4"
+
+2021-05-11 13:21:37,992 98.192.87.153 - - [11/May/2021:13:21:37 -0800] "GET /add_to_cart/302 HTTP/1.1" 200 1958 "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36"
+
+2021-05-11 13:21:58,010 195.225.211.134 - - [11/May/2021:13:21:58 -0800] "GET /categories/boxing%20%26%20mma/products HTTP/1.1" 200 782 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36"
+
+2021-05-11 13:22:18,030 215.198.20.6 - - [11/May/2021:13:22:18 -0800] "GET /add_to_cart/192 HTTP/1.1" 200 1928 "-" "Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko"
+
+2021-05-11 13:22:38,058 107.234.47.167 - - [11/May/2021:13:22:38 -0800] "GET /department/golf/products HTTP/1.1" 404 444 "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36"
+
+2021-05-11 13:22:58,079 187.185.33.120 - - [11/May/2021:13:22:58 -0800] "GET /departments HTTP/1.1" 200 1511 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit/537.76.4 (KHTML, like Gecko) Version/7.0.4 Safari/537.76.4"
+
+2021-05-11 13:23:18,086 83.173.173.191 - - [11/May/2021:13:23:18 -0800] "GET /departments HTTP/1.1" 200 416 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:30.0) Gecko/20100101 Firefox/30.0"
+
+2021-05-11 13:23:38,109 49.54.36.194 - - [11/May/2021:13:23:38 -0800] "GET /departments HTTP/1.1" 200 489 "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36"
+
+2021-05-11 13:23:58,117 98.192.87.153 - - [11/May/2021:13:23:58 -0800] "GET /department/fitness/products HTTP/1.1" 404 510 "-" "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:30.0) Gecko/20100101 Firefox/30.0"
+
+2021-05-11 13:24:18,129 59.84.193.125 - - [11/May/2021:13:24:18 -0800] "GET /department/outdoors/categories HTTP/1.1" 200 1796 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.77.4 (KHTML, like Gecko) Version/7.0.5 Safari/537.77.4"
+
+2021-05-11 14:57:04,407 Connecting to Kafka...
+2021-05-11 14:57:04,454 20.247.143.6 - - [11/May/2021:14:57:04 -0800] "GET /add_to_cart/1369 HTTP/1.1" 404 2227 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36"
+
+2021-05-11 14:57:24,479 44.199.80.125 - - [11/May/2021:14:57:24 -0800] "GET /departments HTTP/1.1" 200 320 "-" "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36"
+
+2021-05-11 14:57:44,508 7.88.30.13 - - [11/May/2021:14:57:44 -0800] "GET /product/207 HTTP/1.1" 200 357 "-" "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36"
+
+2021-05-11 14:58:04,532 192.195.248.180 - - [11/May/2021:14:58:04 -0800] "GET /department/outdoors/categories HTTP/1.1" 200 532 "-" "Mozilla/5.0 (Windows NT 6.3; WOW64; rv:30.0) Gecko/20100101 Firefox/30.0"
+
+2021-05-11 14:58:24,547 45.28.251.16 - - [11/May/2021:14:58:24 -0800] "GET /departments HTTP/1.1" 404 1326 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.77.4 (KHTML, like Gecko) Version/7.0.5 Safari/537.77.4"
+
+2021-05-11 14:58:44,560 119.159.92.6 - - [11/May/2021:14:58:44 -0800] "GET /departments HTTP/1.1" 200 648 "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36"
+
+2021-05-11 14:59:04,613 164.115.219.153 - - [11/May/2021:14:59:04 -0800] "GET /departments HTTP/1.1" 200 1486 "-" "Mozilla/5.0 (Windows NT 6.3; WOW64; rv:30.0) Gecko/20100101 Firefox/30.0"
+
+2021-05-11 14:59:24,632 191.117.239.13 - - [11/May/2021:14:59:24 -0800] "GET /departments HTTP/1.1" 200 2031 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36"
+
+2021-05-11 14:59:44,662 143.250.72.225 - - [11/May/2021:14:59:44 -0800] "GET /departments HTTP/1.1" 200 2142 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.77.4 (KHTML, like Gecko) Version/7.0.5 Safari/537.77.4"
+
+2021-05-11 15:00:04,682 218.243.245.186 - - [11/May/2021:15:00:04 -0800] "GET /departments HTTP/1.1" 200 2040 "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36"
+
+2021-05-11 15:00:24,697 155.61.91.73 - - [11/May/2021:15:00:24 -0800] "GET /product/1002 HTTP/1.1" 200 2086 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit/537.76.4 (KHTML, like Gecko) Version/7.0.4 Safari/537.76.4"
+
+2021-05-11 15:00:44,721 6.92.200.46 - - [11/May/2021:15:00:44 -0800] "GET /product/721 HTTP/1.1" 200 296 "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36"
+
+2021-05-11 15:01:04,742 129.246.96.6 - - [11/May/2021:15:01:04 -0800] "GET /product/317 HTTP/1.1" 200 907 "-" "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:30.0) Gecko/20100101 Firefox/30.0"
+
+2021-05-11 15:01:24,761 64.15.171.67 - - [11/May/2021:15:01:24 -0800] "GET /department/outdoors/categories HTTP/1.1" 200 1835 "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36"
+
+2021-05-11 15:01:44,774 108.243.100.75 - - [11/May/2021:15:01:44 -0800] "GET /departments HTTP/1.1" 200 1371 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.77.4 (KHTML, like Gecko) Version/7.0.5 Safari/537.77.4"
+
+2021-05-11 15:02:04,799 119.159.92.6 - - [11/May/2021:15:02:04 -0800] "GET /product/652 HTTP/1.1" 200 1433 "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36"
+
+2021-05-11 15:02:24,809 14.35.219.182 - - [11/May/2021:15:02:24 -0800] "GET /departments HTTP/1.1" 200 1957 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit/537.76.4 (KHTML, like Gecko) Version/7.0.4 Safari/537.76.4"
+
+2021-05-11 15:02:44,833 100.78.54.254 - - [11/May/2021:15:02:44 -0800] "GET /product/323 HTTP/1.1" 200 1065 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36"
+
+2021-05-11 15:03:04,839 143.250.72.225 - - [11/May/2021:15:03:04 -0800] "GET /add_to_cart/214 HTTP/1.1" 200 1392 "-" "Mozilla/5.0 (Windows NT 6.3; WOW64; rv:30.0) Gecko/20100101 Firefox/30.0"
+
+2021-05-11 15:03:24,864 119.89.113.176 - - [11/May/2021:15:03:24 -0800] "GET /departments HTTP/1.1" 200 1833 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36"
+
+2021-05-11 15:03:44,893 19.215.114.3 - - [11/May/2021:15:03:44 -0800] "GET /product/110 HTTP/1.1" 200 1112 "-" "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:30.0) Gecko/20100101 Firefox/30.0"
+
+2021-05-11 15:04:04,906 192.73.158.33 - - [11/May/2021:15:04:04 -0800] "GET /departments HTTP/1.1" 200 2098 "-" "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36"
+
+2021-05-11 15:04:24,911 108.243.100.75 - - [11/May/2021:15:04:24 -0800] "GET /logout HTTP/1.1" 200 1053 "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36"
+
+2021-05-11 15:04:44,936 19.215.114.3 - - [11/May/2021:15:04:44 -0800] "GET /department/footwear/categories HTTP/1.1" 200 1738 "-" "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36"
+
+2021-05-11 15:05:04,958 79.217.40.130 - - [11/May/2021:15:05:04 -0800] "GET /department/outdoors/categories HTTP/1.1" 200 1356 "-" "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36"
+
+2021-05-11 15:05:24,980 155.148.126.231 - - [11/May/2021:15:05:24 -0800] "GET /logout HTTP/1.1" 200 1250 "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36"
+
+2021-05-11 15:05:45,006 183.27.161.253 - - [11/May/2021:15:05:45 -0800] "GET /checkout HTTP/1.1" 200 621 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36"
+
+2021-05-11 15:06:05,031 156.12.121.9 - - [11/May/2021:15:06:05 -0800] "GET /logout HTTP/1.1" 200 729 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36"
+
+2021-05-11 15:06:25,060 97.73.243.201 - - [11/May/2021:15:06:25 -0800] "GET /department/team%20sports/categories HTTP/1.1" 200 1333 "-" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:30.0) Gecko/20100101 Firefox/30.0"
+
+2021-05-11 15:06:45,087 212.58.42.212 - - [11/May/2021:15:06:45 -0800] "GET /product/445 HTTP/1.1" 200 1013 "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36"
+
+2021-05-11 15:07:05,107 173.243.106.123 - - [11/May/2021:15:07:05 -0800] "GET /departments HTTP/1.1" 404 1484 "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36"
+
+2021-05-11 15:07:25,128 27.66.34.2 - - [11/May/2021:15:07:25 -0800] "GET /departments HTTP/1.1" 404 1192 "-" "Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko"
+
+2021-05-11 15:07:45,141 190.183.98.209 - - [11/May/2021:15:07:45 -0800] "GET /departments HTTP/1.1" 200 1491 "-" "Mozilla/5.0 (Windows NT 6.3; WOW64; rv:30.0) Gecko/20100101 Firefox/30.0"
+
+2021-05-11 15:08:05,164 196.67.7.99 - - [11/May/2021:15:08:05 -0800] "GET /login HTTP/1.1" 200 2020 "-" "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:30.0) Gecko/20100101 Firefox/30.0"
+
+2021-05-11 15:08:25,185 218.243.245.186 - - [11/May/2021:15:08:25 -0800] "GET /department/footwear/products HTTP/1.1" 200 2150 "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36"
+
+2021-05-11 15:08:45,195 1.133.62.151 - - [11/May/2021:15:08:45 -0800] "GET /department/apparel/categories HTTP/1.1" 200 541 "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36"
+
+2021-05-11 15:09:05,215 192.195.248.180 - - [11/May/2021:15:09:05 -0800] "GET /product/53 HTTP/1.1" 200 802 "-" "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36"
+
+2021-05-11 15:09:25,243 170.249.94.200 - - [11/May/2021:15:09:25 -0800] "GET /categories/world%20cup%20shop/products HTTP/1.1" 200 2046 "-" "Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko"
+
+2021-05-11 15:09:45,252 91.184.163.82 - - [11/May/2021:15:09:45 -0800] "GET /departments HTTP/1.1" 200 923 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36"
+
+2021-05-11 15:10:05,269 216.10.148.202 - - [11/May/2021:15:10:05 -0800] "GET /department/outdoors/products HTTP/1.1" 200 341 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36"
+
+2021-05-11 15:10:25,292 7.88.30.13 - - [11/May/2021:15:10:25 -0800] "GET /login HTTP/1.1" 200 1511 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit/537.76.4 (KHTML, like Gecko) Version/7.0.4 Safari/537.76.4"
+
+2021-05-11 15:10:45,301 164.115.219.153 - - [11/May/2021:15:10:45 -0800] "GET /departments HTTP/1.1" 200 2004 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36"
+
+2021-05-11 15:11:05,328 76.131.72.105 - - [11/May/2021:15:11:05 -0800] "GET /product/816 HTTP/1.1" 200 832 "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36"
+
+2021-05-11 15:11:25,350 196.67.7.99 - - [11/May/2021:15:11:25 -0800] "GET /login HTTP/1.1" 200 908 "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36"
+
+2021-05-11 15:11:45,371 135.118.12.167 - - [11/May/2021:15:11:45 -0800] "GET /departments HTTP/1.1" 503 686 "-" "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:30.0) Gecko/20100101 Firefox/30.0"
+
+2021-05-11 15:12:05,392 43.99.239.196 - - [11/May/2021:15:12:05 -0800] "GET /departments HTTP/1.1" 200 716 "-" "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36"
+
+2021-05-11 15:12:25,419 156.12.121.9 - - [11/May/2021:15:12:25 -0800] "GET /categories/fitness%20accessories/products HTTP/1.1" 200 952 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36"
+
+2021-05-11 15:12:45,440 191.117.239.13 - - [11/May/2021:15:12:45 -0800] "GET /departments HTTP/1.1" 200 1051 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit/537.76.4 (KHTML, like Gecko) Version/7.0.4 Safari/537.76.4"
+
+2021-05-11 15:13:05,460 137.29.164.178 - - [11/May/2021:15:13:05 -0800] "GET /department/apparel/products HTTP/1.1" 200 609 "-" "Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko"
+
+2021-05-11 15:13:25,465 179.185.195.218 - - [11/May/2021:15:13:25 -0800] "GET /department/outdoors/categories HTTP/1.1" 200 1834 "-" "Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko"
+
+2021-05-11 15:13:45,478 115.94.197.112 - - [11/May/2021:15:13:45 -0800] "GET /department/footwear/products HTTP/1.1" 200 746 "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36"
+
+2021-05-11 15:14:05,498 27.66.34.2 - - [11/May/2021:15:14:05 -0800] "GET /checkout HTTP/1.1" 200 431 "-" "Mozilla/5.0 (Windows NT 6.3; WOW64; rv:30.0) Gecko/20100101 Firefox/30.0"
+
+2021-05-11 15:14:25,522 91.48.150.160 - - [11/May/2021:15:14:25 -0800] "GET /department/apparel/categories HTTP/1.1" 200 1312 "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36"
+
+2021-05-11 15:14:45,551 204.85.223.42 - - [11/May/2021:15:14:45 -0800] "GET /departments HTTP/1.1" 404 316 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36"
+
+2021-05-11 15:15:05,579 19.215.114.3 - - [11/May/2021:15:15:05 -0800] "GET /departments HTTP/1.1" 200 1354 "-" "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36"
+
+2021-05-11 15:15:25,608 1.133.62.151 - - [11/May/2021:15:15:25 -0800] "GET /login HTTP/1.1" 200 697 "-" "Mozilla/5.0 (Windows NT 6.3; WOW64; rv:30.0) Gecko/20100101 Firefox/30.0"
+
+2021-05-11 15:15:45,629 97.73.243.201 - - [11/May/2021:15:15:45 -0800] "GET /departments HTTP/1.1" 200 1513 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36"
+
+2021-05-11 15:16:05,648 183.27.161.253 - - [11/May/2021:15:16:05 -0800] "GET /department/fan%20shop/categories HTTP/1.1" 200 1798 "-" "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36"
+
+2021-05-11 15:16:25,668 164.115.219.153 - - [11/May/2021:15:16:25 -0800] "GET /departments HTTP/1.1" 200 211 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36"
+
+2021-05-11 15:16:45,690 91.184.163.82 - - [11/May/2021:15:16:45 -0800] "GET /department/apparel/products HTTP/1.1" 200 450 "-" "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36"
+
+2021-05-11 15:17:05,699 49.209.167.220 - - [11/May/2021:15:17:05 -0800] "GET /department/outdoors/categories HTTP/1.1" 200 1977 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36"
+
+2021-05-11 15:17:25,718 97.73.243.201 - - [11/May/2021:15:17:25 -0800] "GET /departments HTTP/1.1" 200 752 "-" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:30.0) Gecko/20100101 Firefox/30.0"
+
+2021-05-11 15:17:45,739 125.94.35.75 - - [11/May/2021:15:17:45 -0800] "GET /department/outdoors/categories HTTP/1.1" 200 1561 "-" "Mozilla/5.0 (Windows NT 6.3; WOW64; rv:30.0) Gecko/20100101 Firefox/30.0"
+
+2021-05-11 15:18:05,761 115.94.197.112 - - [11/May/2021:15:18:05 -0800] "GET /department/footwear/categories HTTP/1.1" 200 657 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36"
+
+2021-05-11 15:18:25,786 165.177.205.176 - - [11/May/2021:15:18:25 -0800] "GET /login HTTP/1.1" 200 763 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36"
+
+2021-05-11 15:18:45,806 76.131.72.105 - - [11/May/2021:15:18:45 -0800] "GET /login HTTP/1.1" 200 1045 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36"
+
+2021-05-11 15:19:05,829 180.28.110.191 - - [11/May/2021:15:19:05 -0800] "GET /departments HTTP/1.1" 404 953 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36"
+
+2021-05-11 15:19:25,852 169.196.201.240 - - [11/May/2021:15:19:25 -0800] "GET /login HTTP/1.1" 200 742 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:30.0) Gecko/20100101 Firefox/30.0"
+
+2021-05-11 15:19:45,877 16.247.213.214 - - [11/May/2021:15:19:45 -0800] "GET /departments HTTP/1.1" 200 2040 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36"
+
+2021-05-11 15:20:05,886 70.39.132.116 - - [11/May/2021:15:20:05 -0800] "GET /departments HTTP/1.1" 200 507 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36"
+
+2021-05-11 15:20:25,906 105.173.67.190 - - [11/May/2021:15:20:25 -0800] "GET /departments HTTP/1.1" 200 944 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:30.0) Gecko/20100101 Firefox/30.0"
+
+2021-05-11 15:20:45,929 156.12.121.9 - - [11/May/2021:15:20:45 -0800] "GET /departments HTTP/1.1" 200 2043 "-" "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36"
+
+2021-05-11 15:21:05,957 76.131.72.105 - - [11/May/2021:15:21:05 -0800] "GET /departments HTTP/1.1" 200 350 "-" "Mozilla/5.0 (Windows NT 6.1; rv:30.0) Gecko/20100101 Firefox/30.0"
+
+2021-05-11 15:21:25,987 43.99.239.196 - - [11/May/2021:15:21:25 -0800] "GET /department/fan%20shop/categories HTTP/1.1" 200 1655 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36"
+
+2021-05-11 15:21:46,010 64.15.171.67 - - [11/May/2021:15:21:46 -0800] "GET /department/apparel/categories HTTP/1.1" 200 1975 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit/537.76.4 (KHTML, like Gecko) Version/7.0.4 Safari/537.76.4"
+
+2021-05-11 15:22:06,035 143.250.72.225 - - [11/May/2021:15:22:06 -0800] "GET /department/team%20sports/categories HTTP/1.1" 200 1391 "-" "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36"
+
+2021-05-11 15:22:26,061 81.199.117.149 - - [11/May/2021:15:22:26 -0800] "GET /categories/nba/products HTTP/1.1" 200 1265 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36"
+
+2021-05-11 15:22:46,098 128.85.139.57 - - [11/May/2021:15:22:46 -0800] "GET /department/team%20sports/categories HTTP/1.1" 200 1401 "-" "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36"
+
+2021-05-11 15:23:06,121 43.99.239.196 - - [11/May/2021:15:23:06 -0800] "GET /departments HTTP/1.1" 200 934 "-" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:30.0) Gecko/20100101 Firefox/30.0"
+
+2021-05-11 15:23:26,129 125.94.35.75 - - [11/May/2021:15:23:26 -0800] "GET /departments HTTP/1.1" 200 1140 "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36"
+
+2021-05-11 15:23:46,156 165.177.205.176 - - [11/May/2021:15:23:46 -0800] "GET /departments HTTP/1.1" 200 909 "-" "Mozilla/5.0 (Windows NT 6.1; rv:30.0) Gecko/20100101 Firefox/30.0"
+
+2021-05-11 15:24:06,179 101.31.0.4 - - [11/May/2021:15:24:06 -0800] "GET /departments HTTP/1.1" 200 813 "-" "Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko"
+
+2021-05-11 15:24:26,204 91.200.96.9 - - [11/May/2021:15:24:26 -0800] "GET /departments HTTP/1.1" 200 1120 "-" "Mozilla/5.0 (Windows NT 6.3; WOW64; rv:30.0) Gecko/20100101 Firefox/30.0"
+
+2021-05-11 15:24:46,228 14.35.219.182 - - [11/May/2021:15:24:46 -0800] "GET /departments HTTP/1.1" 200 1935 "-" "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:30.0) Gecko/20100101 Firefox/30.0"
+
+2021-05-11 15:25:06,263 27.123.201.156 - - [11/May/2021:15:25:06 -0800] "GET /categories/golf%20shoes/products HTTP/1.1" 200 306 "-" "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36"
+
+2021-05-11 15:25:26,272 216.10.148.202 - - [11/May/2021:15:25:26 -0800] "GET /department/golf/categories HTTP/1.1" 200 1099 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:30.0) Gecko/20100101 Firefox/30.0"
+
+2021-05-11 15:25:46,299 173.243.106.123 - - [11/May/2021:15:25:46 -0800] "GET /product/1128 HTTP/1.1" 200 1229 "-" "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:30.0) Gecko/20100101 Firefox/30.0"
+
+2021-05-12 13:04:18,661 Connecting to Kafka...
+2021-05-12 13:04:18,697 206.235.164.75 - - [12/May/2021:13:04:18 -0800] "GET /departments HTTP/1.1" 200 1932 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:30.0) Gecko/20100101 Firefox/30.0"
+
+2021-05-12 13:04:38,724 170.217.19.204 - - [12/May/2021:13:04:38 -0800] "GET /product/121 HTTP/1.1" 200 1114 "-" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:30.0) Gecko/20100101 Firefox/30.0"
+
+2021-05-12 13:04:58,733 68.9.209.220 - - [12/May/2021:13:04:58 -0800] "GET /department/team%20sports/categories HTTP/1.1" 200 593 "-" "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:30.0) Gecko/20100101 Firefox/30.0"
+
+2021-05-12 13:05:18,742 116.85.59.209 - - [12/May/2021:13:05:18 -0800] "GET /departments HTTP/1.1" 200 299 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit/537.76.4 (KHTML, like Gecko) Version/7.0.4 Safari/537.76.4"
+
+2021-05-12 13:05:38,763 77.56.137.126 - - [12/May/2021:13:05:38 -0800] "GET /department/outdoors/categories HTTP/1.1" 200 262 "-" "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:30.0) Gecko/20100101 Firefox/30.0"
+
+2021-05-12 13:05:58,784 74.22.185.44 - - [12/May/2021:13:05:58 -0800] "GET /departments HTTP/1.1" 200 807 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.77.4 (KHTML, like Gecko) Version/7.0.5 Safari/537.77.4"
+
+2021-05-12 13:06:18,807 1.40.178.110 - - [12/May/2021:13:06:18 -0800] "GET /login HTTP/1.1" 200 1482 "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36"
+
+2021-05-12 13:06:38,822 34.41.252.144 - - [12/May/2021:13:06:38 -0800] "GET /checkout HTTP/1.1" 200 481 "-" "Mozilla/5.0 (Windows NT 6.3; WOW64; rv:30.0) Gecko/20100101 Firefox/30.0"
+
+2021-05-12 13:06:58,835 16.98.41.29 - - [12/May/2021:13:06:58 -0800] "GET /departments HTTP/1.1" 200 518 "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36"
+
+2021-05-12 13:07:18,857 213.89.100.184 - - [12/May/2021:13:07:18 -0800] "GET /add_to_cart/379 HTTP/1.1" 200 1328 "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36"
+
+2021-05-12 13:18:30,589 Connecting to Kafka...
+2021-05-12 13:18:30,618 150.247.64.145 - - [12/May/2021:13:18:30 -0800] "GET /department/fan%20shop/categories HTTP/1.1" 200 1767 "-" "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36"
+
+2021-05-12 13:18:50,632 58.24.114.188 - - [12/May/2021:13:18:50 -0800] "GET /departments HTTP/1.1" 200 1172 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36"
+
+2021-05-12 13:19:10,652 78.69.215.117 - - [12/May/2021:13:19:10 -0800] "GET /department/outdoors/categories HTTP/1.1" 200 2081 "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36"
+
+2021-05-12 13:19:30,664 105.154.200.46 - - [12/May/2021:13:19:30 -0800] "GET /add_to_cart/303 HTTP/1.1" 200 1682 "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36"
+
+2021-05-12 13:19:50,682 66.38.138.89 - - [12/May/2021:13:19:50 -0800] "GET /department/team%20sports/categories HTTP/1.1" 200 305 "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36"
+
+2021-05-12 13:20:10,783 217.72.108.3 - - [12/May/2021:13:20:10 -0800] "GET /department/team%20sports/products HTTP/1.1" 200 946 "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36"
+
+2021-05-12 13:20:30,805 150.247.64.145 - - [12/May/2021:13:20:30 -0800] "GET /add_to_cart/1119 HTTP/1.1" 200 2047 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit/537.76.4 (KHTML, like Gecko) Version/7.0.4 Safari/537.76.4"
+
+2021-05-12 13:20:50,829 221.66.159.125 - - [12/May/2021:13:20:50 -0800] "GET /login HTTP/1.1" 200 2107 "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36"
+
+2021-05-12 13:21:10,853 36.101.214.0 - - [12/May/2021:13:21:10 -0800] "GET /categories/women%27s%20footwear/products HTTP/1.1" 200 1091 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.77.4 (KHTML, like Gecko) Version/7.0.5 Safari/537.77.4"
+
+2021-05-12 13:21:30,878 194.98.127.42 - - [12/May/2021:13:21:30 -0800] "GET /product/610 HTTP/1.1" 200 1030 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36"
+
+2021-05-12 13:21:50,907 170.175.155.98 - - [12/May/2021:13:21:50 -0800] "GET /departments HTTP/1.1" 200 1721 "-" "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36"
+
+2021-05-12 13:22:10,922 89.217.253.41 - - [12/May/2021:13:22:10 -0800] "GET /department/team%20sports/categories HTTP/1.1" 200 840 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.77.4 (KHTML, like Gecko) Version/7.0.5 Safari/537.77.4"
+
+2021-05-12 13:22:30,942 170.87.18.123 - - [12/May/2021:13:22:30 -0800] "GET /departments HTTP/1.1" 200 1321 "-" "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:30.0) Gecko/20100101 Firefox/30.0"
+
+2021-05-12 13:22:50,965 148.230.12.55 - - [12/May/2021:13:22:50 -0800] "GET /login HTTP/1.1" 200 1937 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:30.0) Gecko/20100101 Firefox/30.0"
+
+2021-05-12 13:23:10,990 19.206.244.9 - - [12/May/2021:13:23:10 -0800] "GET /departments HTTP/1.1" 200 1446 "-" "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:30.0) Gecko/20100101 Firefox/30.0"
+
+2021-05-12 13:23:31,014 107.149.103.185 - - [12/May/2021:13:23:31 -0800] "GET /departments HTTP/1.1" 200 1226 "-" "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:30.0) Gecko/20100101 Firefox/30.0"
+
+2021-05-12 13:23:51,024 205.3.108.141 - - [12/May/2021:13:23:51 -0800] "GET /departments HTTP/1.1" 200 915 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36"
+
+2021-05-12 13:24:11,045 163.101.92.200 - - [12/May/2021:13:24:11 -0800] "GET /departments HTTP/1.1" 200 947 "-" "Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko"
+
+2021-05-12 13:24:31,073 125.68.234.15 - - [12/May/2021:13:24:31 -0800] "GET /add_to_cart/921 HTTP/1.1" 200 1555 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36"
+
+2021-05-12 13:24:51,086 173.25.167.65 - - [12/May/2021:13:24:51 -0800] "GET /categories/nfl/products HTTP/1.1" 200 1866 "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36"
+
+2021-05-12 13:25:11,097 16.139.233.73 - - [12/May/2021:13:25:11 -0800] "GET /department/fitness/products HTTP/1.1" 200 1755 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36"
+
+2021-05-12 13:25:31,127 185.6.111.252 - - [12/May/2021:13:25:31 -0800] "GET /categories/golf%20shoes/products HTTP/1.1" 200 1478 "-" "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:30.0) Gecko/20100101 Firefox/30.0"
+
+2021-05-12 13:25:51,151 22.199.22.117 - - [12/May/2021:13:25:51 -0800] "GET /login HTTP/1.1" 200 1516 "-" "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:30.0) Gecko/20100101 Firefox/30.0"
+
+2021-05-12 13:26:11,171 27.242.20.80 - - [12/May/2021:13:26:11 -0800] "GET /product/1155 HTTP/1.1" 200 710 "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36"
+
+2021-05-12 13:26:31,203 59.219.78.204 - - [12/May/2021:13:26:31 -0800] "GET /departments HTTP/1.1" 200 996 "-" "Mozilla/5.0 (Windows NT 6.3; WOW64; rv:30.0) Gecko/20100101 Firefox/30.0"
+
+2021-05-12 13:26:51,224 34.213.155.252 - - [12/May/2021:13:26:51 -0800] "GET /product/902 HTTP/1.1" 200 1589 "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36"
+
+2021-05-12 13:27:11,255 212.103.87.63 - - [12/May/2021:13:27:11 -0800] "GET /departments HTTP/1.1" 200 1081 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.77.4 (KHTML, like Gecko) Version/7.0.5 Safari/537.77.4"
+
+2021-05-12 13:27:31,277 36.101.214.0 - - [12/May/2021:13:27:31 -0800] "GET /departments HTTP/1.1" 200 968 "-" "Mozilla/5.0 (Windows NT 6.1; rv:30.0) Gecko/20100101 Firefox/30.0"
+
+2021-05-12 13:27:51,301 143.102.251.224 - - [12/May/2021:13:27:51 -0800] "GET /departments HTTP/1.1" 200 998 "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36"
+
+2021-05-12 13:28:11,324 162.114.54.9 - - [12/May/2021:13:28:11 -0800] "GET /departments HTTP/1.1" 200 1771 "-" "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:30.0) Gecko/20100101 Firefox/30.0"
+
+2021-05-12 13:28:31,351 217.72.108.3 - - [12/May/2021:13:28:31 -0800] "GET /logout HTTP/1.1" 200 739 "-" "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:30.0) Gecko/20100101 Firefox/30.0"
+
+2021-05-12 13:28:51,373 66.38.138.89 - - [12/May/2021:13:28:51 -0800] "GET /product/765 HTTP/1.1" 200 1880 "-" "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:30.0) Gecko/20100101 Firefox/30.0"
+
+2021-05-12 13:29:11,399 22.199.22.117 - - [12/May/2021:13:29:11 -0800] "GET /department/apparel/categories HTTP/1.1" 200 203 "-" "Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko"
+
+2021-05-12 13:29:31,420 183.6.133.183 - - [12/May/2021:13:29:31 -0800] "GET /departments HTTP/1.1" 200 1063 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:30.0) Gecko/20100101 Firefox/30.0"
+
+2021-05-12 13:29:51,443 22.204.186.49 - - [12/May/2021:13:29:51 -0800] "GET /department/outdoors/categories HTTP/1.1" 200 1761 "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36"
+
+2021-05-12 13:30:11,459 221.66.159.125 - - [12/May/2021:13:30:11 -0800] "GET /departments HTTP/1.1" 200 312 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36"
+
+2021-05-12 13:30:31,482 36.101.214.0 - - [12/May/2021:13:30:31 -0800] "GET /department/team%20sports/products HTTP/1.1" 200 2034 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36"
+
+2021-05-12 13:30:51,503 60.11.236.205 - - [12/May/2021:13:30:51 -0800] "GET /departments HTTP/1.1" 200 1157 "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36"
+
+2021-05-12 13:31:11,525 139.28.138.158 - - [12/May/2021:13:31:11 -0800] "GET /departments HTTP/1.1" 200 1476 "-" "Mozilla/5.0 (Windows NT 6.1; rv:30.0) Gecko/20100101 Firefox/30.0"
+
+2021-05-12 13:31:31,537 142.175.175.167 - - [12/May/2021:13:31:31 -0800] "GET /departments HTTP/1.1" 200 2098 "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36"
+
+2021-05-12 13:31:51,550 181.100.244.232 - - [12/May/2021:13:31:51 -0800] "GET /departments HTTP/1.1" 200 1901 "-" "Mozilla/5.0 (Windows NT 6.3; WOW64; rv:30.0) Gecko/20100101 Firefox/30.0"
+
+2021-05-12 13:32:11,555 22.204.186.49 - - [12/May/2021:13:32:11 -0800] "GET /departments HTTP/1.1" 200 2024 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.77.4 (KHTML, like Gecko) Version/7.0.5 Safari/537.77.4"
+
+2021-05-12 13:32:31,582 35.11.163.175 - - [12/May/2021:13:32:31 -0800] "GET /product/1035 HTTP/1.1" 200 1719 "-" "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36"
+
+2021-05-12 13:32:51,605 217.72.108.3 - - [12/May/2021:13:32:51 -0800] "GET /department/fan%20shop/products HTTP/1.1" 200 318 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit/537.76.4 (KHTML, like Gecko) Version/7.0.4 Safari/537.76.4"
+
+2021-05-12 13:33:11,623 100.92.79.128 - - [12/May/2021:13:33:11 -0800] "GET /departments HTTP/1.1" 200 318 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit/537.76.4 (KHTML, like Gecko) Version/7.0.4 Safari/537.76.4"
+
+2021-05-12 13:33:31,645 89.217.253.41 - - [12/May/2021:13:33:31 -0800] "GET /categories/mlb%20players/products HTTP/1.1" 200 1138 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.77.4 (KHTML, like Gecko) Version/7.0.5 Safari/537.77.4"
+
+2021-05-12 13:33:51,657 142.175.175.167 - - [12/May/2021:13:33:51 -0800] "GET /categories/ncaa/products HTTP/1.1" 200 1092 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36"
+
+2021-05-12 13:34:11,672 80.231.85.142 - - [12/May/2021:13:34:11 -0800] "GET /departments HTTP/1.1" 200 1017 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36"
+
+2021-05-12 13:34:31,695 60.11.236.205 - - [12/May/2021:13:34:31 -0800] "GET /product/1295 HTTP/1.1" 200 2187 "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36"
+
+2021-05-12 13:34:51,722 16.139.233.73 - - [12/May/2021:13:34:51 -0800] "GET /departments HTTP/1.1" 200 1708 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36"
+
+2021-05-12 13:35:11,741 60.56.65.137 - - [12/May/2021:13:35:11 -0800] "GET /department/fitness/products HTTP/1.1" 200 1716 "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36"
+
+2021-05-12 13:35:31,763 54.189.203.39 - - [12/May/2021:13:35:31 -0800] "GET /departments HTTP/1.1" 200 319 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36"
+
+2021-05-12 13:35:51,784 180.120.117.231 - - [12/May/2021:13:35:51 -0800] "GET /department/team%20sports/categories HTTP/1.1" 200 1388 "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36"
+
+2021-05-12 13:36:11,803 11.245.132.74 - - [12/May/2021:13:36:11 -0800] "GET /department/outdoors/categories HTTP/1.1" 200 1874 "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36"
+
+2021-05-12 13:36:31,825 124.59.143.77 - - [12/May/2021:13:36:31 -0800] "GET /department/outdoors/products HTTP/1.1" 200 2035 "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36"
+
+2021-05-12 13:36:51,848 58.24.114.188 - - [12/May/2021:13:36:51 -0800] "GET /department/fan%20shop/products HTTP/1.1" 404 951 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.77.4 (KHTML, like Gecko) Version/7.0.5 Safari/537.77.4"
+
+2021-05-12 13:37:11,870 19.90.217.206 - - [12/May/2021:13:37:11 -0800] "GET /department/golf/products HTTP/1.1" 200 790 "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36"
+
+2021-05-12 13:37:31,894 217.172.11.102 - - [12/May/2021:13:37:31 -0800] "GET /department/golf/categories HTTP/1.1" 200 886 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:30.0) Gecko/20100101 Firefox/30.0"
+
+2021-05-12 13:37:51,916 18.152.43.40 - - [12/May/2021:13:37:51 -0800] "GET /login HTTP/1.1" 200 1362 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit/537.76.4 (KHTML, like Gecko) Version/7.0.4 Safari/537.76.4"
+
+2021-05-12 13:38:11,932 217.72.108.3 - - [12/May/2021:13:38:11 -0800] "GET /product/367 HTTP/1.1" 200 2093 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36"
+
+2021-05-12 13:38:31,957 22.199.22.117 - - [12/May/2021:13:38:31 -0800] "GET /department/apparel/categories HTTP/1.1" 200 2148 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36"
+
+2021-05-12 13:38:51,983 173.69.57.234 - - [12/May/2021:13:38:51 -0800] "GET /department/outdoors/categories HTTP/1.1" 200 1482 "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36"
+
+2021-05-12 13:39:12,003 19.206.244.9 - - [12/May/2021:13:39:12 -0800] "GET /department/footwear/categories HTTP/1.1" 200 976 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.77.4 (KHTML, like Gecko) Version/7.0.5 Safari/537.77.4"
+
+2021-05-12 13:39:32,025 222.116.83.200 - - [12/May/2021:13:39:32 -0800] "GET /departments HTTP/1.1" 200 729 "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36"
+
+2021-05-12 13:39:52,039 205.3.108.141 - - [12/May/2021:13:39:52 -0800] "GET /logout HTTP/1.1" 503 303 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.77.4 (KHTML, like Gecko) Version/7.0.5 Safari/537.77.4"
+
+2021-05-12 13:40:12,063 195.147.89.209 - - [12/May/2021:13:40:12 -0800] "GET /categories/men%27s%20apparel/products HTTP/1.1" 200 1823 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit/537.76.4 (KHTML, like Gecko) Version/7.0.4 Safari/537.76.4"
+
+2021-05-12 13:40:32,078 16.139.233.73 - - [12/May/2021:13:40:32 -0800] "GET /login HTTP/1.1" 200 1435 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.77.4 (KHTML, like Gecko) Version/7.0.5 Safari/537.77.4"
+
+2021-05-12 13:40:52,090 124.3.232.45 - - [12/May/2021:13:40:52 -0800] "GET /department/fitness/categories HTTP/1.1" 200 1658 "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36"
+
+2021-05-12 13:41:12,106 215.219.176.143 - - [12/May/2021:13:41:12 -0800] "GET /product/1256 HTTP/1.1" 200 1803 "-" "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:30.0) Gecko/20100101 Firefox/30.0"
+
+2021-05-12 13:41:32,116 192.173.196.177 - - [12/May/2021:13:41:32 -0800] "GET /departments HTTP/1.1" 200 2229 "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36"
+
+2021-05-12 13:41:52,143 66.38.138.89 - - [12/May/2021:13:41:52 -0800] "GET /departments HTTP/1.1" 200 1088 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36"
+
+2021-05-12 13:42:12,167 166.95.4.51 - - [12/May/2021:13:42:12 -0800] "GET /product/778 HTTP/1.1" 200 1539 "-" "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:30.0) Gecko/20100101 Firefox/30.0"
+
+2021-05-12 13:42:32,186 210.253.156.7 - - [12/May/2021:13:42:32 -0800] "GET /product/122 HTTP/1.1" 200 975 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.77.4 (KHTML, like Gecko) Version/7.0.5 Safari/537.77.4"
+
+2021-05-12 13:42:52,207 116.131.8.26 - - [12/May/2021:13:42:52 -0800] "GET /department/team%20sports/categories HTTP/1.1" 200 552 "-" "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:30.0) Gecko/20100101 Firefox/30.0"
+
+2021-05-12 13:43:12,236 129.252.58.167 - - [12/May/2021:13:43:12 -0800] "GET /product/1259 HTTP/1.1" 200 1561 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36"
+
+2021-05-12 13:43:32,255 74.196.3.101 - - [12/May/2021:13:43:32 -0800] "GET /department/outdoors/categories HTTP/1.1" 200 2236 "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36"
+
+2021-05-12 13:43:52,284 205.3.108.141 - - [12/May/2021:13:43:52 -0800] "GET /department/apparel/products HTTP/1.1" 200 278 "-" "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:30.0) Gecko/20100101 Firefox/30.0"
+

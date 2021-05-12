@@ -2,3 +2,7 @@ gen_logs/__pycache__/
 kafka-stack-docker-compose-master/
 gen_iot/__pycache__/
 stream_handler/__pycache__/
+stream_handler/jobs/__pycache__
+stream_handler/shared/__pycache__
+casssandra/
+.vscode

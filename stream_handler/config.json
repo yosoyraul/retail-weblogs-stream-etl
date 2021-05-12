@@ -1,0 +1,12 @@
+{
+    "app_name":"retail-weblogs-etl",
+    "source":"kafka",
+    "source_servers":"kafka.bootstrap.servers",
+    "source_host":"localhost:9092",
+    "source_option":"subscribe",
+    "topic":"test",
+    "target":"org.apache.spark.sql.cassandra",
+    "keyspace":"retail",
+    "table":"weblogs",
+    "checkpointLocation":"/tmp/retail-weblogs-etl/checkpoint"
+}
