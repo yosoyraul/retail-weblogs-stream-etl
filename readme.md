@@ -10,6 +10,7 @@ Project was developed using docker to instantiate Kafka and Cassandra services.
 
 Kafka git repository for this project:
 https://github.com/conduktor/kafka-stack-docker-compose
+
 *Due to local contraints on resources,the single zookeeper and single kafka service was used for the purpose of this project.
 
 Cassandra was pulled from docker hub following the instructions in the documentation.
